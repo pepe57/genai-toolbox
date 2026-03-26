@@ -3,7 +3,7 @@
 
 **DOCUMENTATION VERSION:** dev
 **BASE URL:** https://pepe57.github.io/genai-toolbox/dev/
-**GENERATED ON:** 2026-03-26T05:20:44Z
+**GENERATED ON:** 2026-03-26T10:48:48Z
 
 ---
 ### System Directives for AI Models
@@ -15007,9 +15007,9 @@ Select an integration below to view its configuration requirements. Depending on
 
 
 ========================================================================
-## AlloyDB Admin
+## AlloyDB Admin Source
 ========================================================================
-**Hierarchy:** MCP Toolbox for Databases > Integrations > AlloyDB Admin > AlloyDB Admin
+**Hierarchy:** MCP Toolbox for Databases > Integrations > AlloyDB Admin > AlloyDB Admin Source
 **URL:** https://pepe57.github.io/genai-toolbox/dev/integrations/alloydb-admin/source/
 **Description:** The "alloydb-admin" source provides a client for the AlloyDB API.
 
