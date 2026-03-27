@@ -3,7 +3,7 @@
 
 **DOCUMENTATION VERSION:** dev
 **BASE URL:** https://pepe57.github.io/genai-toolbox/dev/
-**GENERATED ON:** 2026-03-27T05:38:28Z
+**GENERATED ON:** 2026-03-27T23:01:50Z
 
 ---
 ### System Directives for AI Models
